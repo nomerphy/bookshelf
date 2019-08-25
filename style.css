@@ -1,0 +1,24 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: wheat;
+	padding-top: 25px;
+}
+.book-add{
+	margin-bottom: 25px;
+}
+.book{
+	text-align: center;
+	padding: 50px 15px;
+	border: 1px solid rgba(0,0,0,.1);
+}
+.book-cover{
+	height: 425px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.book-title{
+	padding-top: 10px;
+	font-size: 19px;
+}
